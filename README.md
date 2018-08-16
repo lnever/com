@@ -1,4 +1,6 @@
-# com
+# naive-interpreter
+
+多年前的编译原理作业
 
 A interpreter of a function drawing language.
 
